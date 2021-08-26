@@ -1,0 +1,23 @@
+{
+  "name": "run-these",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "scripts": {},
+  "bin": {
+    "run-these": "program.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elmerbulthuis/run-these.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elmerbulthuis/run-these/issues"
+  },
+  "homepage": "https://github.com/elmerbulthuis/run-these#readme",
+  "dependencies": {
+    "glob": "^7.1.7"
+  }
+}
